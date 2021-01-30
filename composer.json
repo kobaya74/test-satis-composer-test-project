@@ -5,5 +5,23 @@
     "version": "1.0.0",
     "keywords": ["relevant","tags","go","here"],
     "homepage": "https://testurl.com",
-    "license": "MIT"
+    "license": "MIT",
+    "license": [
+        "OSL-3.0"
+    ],
+    "authors": [
+        {
+            "name": "Aleksandar Milicevic"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Satis\\TestProject\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
 }
