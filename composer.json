@@ -1,0 +1,8 @@
+{
+    "name": "test-satis-composer/test-project",
+    "type": "library",
+    "description": "Your package description goes here",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT"
+}
